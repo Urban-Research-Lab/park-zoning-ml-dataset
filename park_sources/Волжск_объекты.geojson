@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "Волжск_объекты",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Type": "boat" }, "geometry": { "type": "Point", "coordinates": [ 48.33160501380749, 55.859255061272648 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Type": "watch" }, "geometry": { "type": "Point", "coordinates": [ 48.332498023354667, 55.859067117678016 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 48.335636241564536, 55.857965066486962 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Type": "picnic" }, "geometry": { "type": "Point", "coordinates": [ 48.335037519254499, 55.858004934516885 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Type": "sport" }, "geometry": { "type": "Point", "coordinates": [ 48.334613847111349, 55.858278314191374 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "Type": "sport" }, "geometry": { "type": "Point", "coordinates": [ 48.334167342337757, 55.858446327828631 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 48.333695467974763, 55.858449175511133 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "Type": "watch" }, "geometry": { "type": "Point", "coordinates": [ 48.334608773193473, 55.858839306041368 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "Type": "watch" }, "geometry": { "type": "Point", "coordinates": [ 48.334781286401451, 55.859004469611101 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "Type": "stage" }, "geometry": { "type": "Point", "coordinates": [ 48.335418063095631, 55.858084670453984 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "Type": "art" }, "geometry": { "type": "Point", "coordinates": [ 48.336742355662778, 55.857218957237826 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "Type": "boat" }, "geometry": { "type": "Point", "coordinates": [ 48.335433284849273, 55.858827915424484 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "Type": "stage" }, "geometry": { "type": "Point", "coordinates": [ 48.335227791175036, 55.859334794644184 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "Type": "swing" }, "geometry": { "type": "Point", "coordinates": [ 48.335829050444048, 55.859072812951823 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "Type": "playground" }, "geometry": { "type": "Point", "coordinates": [ 48.335798606936756, 55.859710678334558 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "Type": "parking" }, "geometry": { "type": "Point", "coordinates": [ 48.33230521447517, 55.860456739735241 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "Type": "parking" }, "geometry": { "type": "Point", "coordinates": [ 48.333319998051522, 55.861760888992698 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "Type": "sport" }, "geometry": { "type": "Point", "coordinates": [ 48.333867981182742, 55.861362245393956 ] } },
+{ "type": "Feature", "properties": { "fid": 20, "Type": "dog" }, "geometry": { "type": "Point", "coordinates": [ 48.33320837185812, 55.860957902707867 ] } },
+{ "type": "Feature", "properties": { "fid": 21, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 48.334152120584122, 55.860764272325746 ] } },
+{ "type": "Feature", "properties": { "fid": 22, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 48.337150806052222, 55.857882482580578 ] } }
+]
+}

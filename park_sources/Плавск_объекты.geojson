@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "Плавск_объекты",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 37.293941381905711, 53.709113824480802 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Type": "watch" }, "geometry": { "type": "Point", "coordinates": [ 37.293906418421429, 53.708989658131365 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Type": "art" }, "geometry": { "type": "Point", "coordinates": [ 37.294018301571164, 53.709498737835375 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Type": "stage" }, "geometry": { "type": "Point", "coordinates": [ 37.294060257752307, 53.709916758027354 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 37.294046272358592, 53.710223027610972 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "Type": "swing" }, "geometry": { "type": "Point", "coordinates": [ 37.293808520665415, 53.710065754319487 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "Type": "playground" }, "geometry": { "type": "Point", "coordinates": [ 37.29320015603875, 53.710239582660073 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "Type": "watch" }, "geometry": { "type": "Point", "coordinates": [ 37.293340009975914, 53.709974701092555 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "Type": "art" }, "geometry": { "type": "Point", "coordinates": [ 37.293046316707873, 53.709966423516697 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "Type": "winter" }, "geometry": { "type": "Point", "coordinates": [ 37.292864506589559, 53.710169223656358 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "Type": "skate" }, "geometry": { "type": "Point", "coordinates": [ 37.292563820624665, 53.709705679043587 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "Type": "tradepost" }, "geometry": { "type": "Point", "coordinates": [ 37.293081280192162, 53.709548403818182 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "Type": "art" }, "geometry": { "type": "Point", "coordinates": [ 37.293221134129332, 53.71041341028247 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "Type": "toilet" }, "geometry": { "type": "Point", "coordinates": [ 37.2933260245822, 53.710843837494529 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 37.293319031885339, 53.710661734211463 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "Type": "tradepost" }, "geometry": { "type": "Point", "coordinates": [ 37.292787586924121, 53.710454797705758 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "Type": "watch" }, "geometry": { "type": "Point", "coordinates": [ 37.291990419482289, 53.710562404815754 ] } }
+]
+}

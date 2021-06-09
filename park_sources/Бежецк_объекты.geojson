@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Бежецк_объекты",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Type": "cinema" }, "geometry": { "type": "Point", "coordinates": [ 36.691399197371908, 57.782734948468899 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Type": "stage" }, "geometry": { "type": "Point", "coordinates": [ 36.691375698454188, 57.782805105240335 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Type": "exposition" }, "geometry": { "type": "Point", "coordinates": [ 36.691175607359149, 57.782469567731411 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Type": "art" }, "geometry": { "type": "Point", "coordinates": [ 36.691863279103451, 57.781567937969065 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Type": "exposition" }, "geometry": { "type": "Point", "coordinates": [ 36.691409925138693, 57.781855810159172 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "Type": "stage" }, "geometry": { "type": "Point", "coordinates": [ 36.690808849095532, 57.781380548234672 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "Type": "tradepost" }, "geometry": { "type": "Point", "coordinates": [ 36.690289274888727, 57.781961724821365 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "Type": "toilet" }, "geometry": { "type": "Point", "coordinates": [ 36.690141552810317, 57.781912841169742 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "Type": "playground" }, "geometry": { "type": "Point", "coordinates": [ 36.689769700681921, 57.78266781462947 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 36.688705082944445, 57.781812357900208 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "Type": "active" }, "geometry": { "type": "Point", "coordinates": [ 36.687686309989935, 57.782157258766098 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "Type": "active" }, "geometry": { "type": "Point", "coordinates": [ 36.68784931366266, 57.781959009064686 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 36.688674519755821, 57.782379948913395 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "Type": "calm" }, "geometry": { "type": "Point", "coordinates": [ 36.690024393920552, 57.782434263375116 ] } }
+]
+}

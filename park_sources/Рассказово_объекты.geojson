@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "Рассказово_объекты",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Type": "picnic" }, "geometry": { "type": "Point", "coordinates": [ 41.874539930534382, 52.65009566246929 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Type": "picnic" }, "geometry": { "type": "Point", "coordinates": [ 41.874792614384191, 52.649935602985131 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Type": "picnic" }, "geometry": { "type": "Point", "coordinates": [ 41.874280743617128, 52.650210626665583 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Type": "active" }, "geometry": { "type": "Point", "coordinates": [ 41.874115491264362, 52.649890990196887 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Type": "playground" }, "geometry": { "type": "Point", "coordinates": [ 41.874389038229687, 52.649733953532376 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "Type": "playground" }, "geometry": { "type": "Point", "coordinates": [ 41.874126602842864, 52.649661133225912 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "Type": "fountain" }, "geometry": { "type": "Point", "coordinates": [ 41.873930348346668, 52.649504246263653 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "Type": "watch" }, "geometry": { "type": "Point", "coordinates": [ 41.875512658367583, 52.649333509112253 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "Type": "active" }, "geometry": { "type": "Point", "coordinates": [ 41.875892466011564, 52.649063424185407 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "Type": "attraction" }, "geometry": { "type": "Point", "coordinates": [ 41.875368186425874, 52.648921880859419 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "Type": "skate" }, "geometry": { "type": "Point", "coordinates": [ 41.874975760137929, 52.648703110740101 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "Type": "stage" }, "geometry": { "type": "Point", "coordinates": [ 41.874359331808229, 52.648347511020496 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "Type": "tradepost" }, "geometry": { "type": "Point", "coordinates": [ 41.874125775798149, 52.648711048024673 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "Type": "attraction" }, "geometry": { "type": "Point", "coordinates": [ 41.874442142537589, 52.648803727957599 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "Type": "attraction" }, "geometry": { "type": "Point", "coordinates": [ 41.874166650471153, 52.649088932557724 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "Type": "attraction" }, "geometry": { "type": "Point", "coordinates": [ 41.874148196523841, 52.648984571314791 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "Type": "parking" }, "geometry": { "type": "Point", "coordinates": [ 41.872319744008614, 52.649573210694491 ] } }
+]
+}
